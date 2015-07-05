@@ -1,4 +1,6 @@
 ## About
+
+[![Join the chat at https://gitter.im/kaneshirc/aws-apa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kaneshirc/aws-apa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 aws-apa is a library for Amazon Advertising Product API. This library supports all SOAP API using JAX-WS.
 
  - version 0.9.1 Supported http://webservices.amazon.com/AWSECommerceService/2011-08-01
